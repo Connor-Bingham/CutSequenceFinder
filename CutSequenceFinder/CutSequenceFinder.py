@@ -1,10 +1,10 @@
 ############################################################################
 # Connor Bingham
-# CutsiteFinder
+# CutSequenceFinder
 # Finds a given RNA sequence in a single or multiple genes (in FASTA format)
 # If given a secondary structure beneath RNA sequence, will also reveal if the sequence lies on a hairpin loop
 # Created: 6/26/2024
-# Last Updated: 5/6/2025
+# Last Updated: 5/13/2025
 ############################################################################
 import sys 
 
