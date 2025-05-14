@@ -1,0 +1,19 @@
+﻿>XM_631848.1 Dictyostelium discoideum AX4 CMP/dCMP deaminase, zinc-binding domain-containing protein (DDB_G0288019) mRNA, complete cds
+ATGAACAAATATTTAGTTTTATTCTTTGCAACCTTATGCTTGGTTGGTAAAGTTTTATCATGCGAAAATG
+GAATGAACCCATATTACTCAACACCAGAACAAGTACCAGTACCACTAACAGCTGTTACAGGAGATGAATT
+ATCATATCACCAAGGTTATATGCAACAAGTTATTGATTTTGCAAAAGAAAAGGGAGCATTATTTGTAGCA
+TCAATCGTTCATAAGAATGGTACACAAATTGTTATCGATATGAATTTAGGAAGACAAATGAAAGATTTAA
+CACAACATGCAGAGATTGTTGTAATTCAAAAGGCAAATGCATTATATGGTATTAGCAATTTCTCAGATTA
+TACACTTTACACAACTGGTGAATCATGTTTAATGTGTCAAGGTGCAATTCTTTATTCAGGATTTTCAAAG
+GTTGTTTATGGTACATCAATTAAAACACTCTATTGTGATAAATGCATGAGTCAAGTTCCAATCGATTCAA
+CTTTCCTCACTGCCTATGGTTATGGTTTAGGTGATGGTTGGAATAGACCAACTATCATTGGTGGAGTATT
+AAGCAACATTACCGATAATCAAGTTTTCAAAAACTATTGTAATATGACAACTTCAATCTTTAAAGTTCAT
+CCACTTTGTGTTGATCCAAATAATTCTTCTTCATCTTTAACTTTTAGTTTTTTAACTTTATTAATTTTAA
+TCACTTATTTATTCATTTAA
+
+
+1      (((((.(((((............((((((((((........)))).))))))....((((((((((..((((.(((((.((((((((.....(((.((((....((((((((((..(((((((((((((((.((((..............((((((((..
+160    .((.....))...))))))))...............)))).))))))))....(((((((....))))))).......(((((.((.............)).)))))....................((.(((((((((((....(((....((....))
+320    ......)))...))))))))))))).......(((((((((((((((......)).))....))))).)))))).((((((......))))))......)))))))..))))))...........(((......)))......(((((((..(((((...
+480    ........)))))..)))).)))...))))....)))).)))(((((((((......)))))))))((((((((.((........)).)))))))).....(((((....)))))...))))))))..................))))))))).))))))
+640    .))))..............................((((....))))..................))))).)))))....
