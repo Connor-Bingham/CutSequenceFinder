@@ -3,7 +3,7 @@
 # Gene_Splitter
 # Made to turn a single text file with a large list of genes into individual files for each gene. Also works with output (as a text file) from ViennaRNA 
 # Created on: 7/19/2024
-# Last Updated: 5/6/2025
+# Last Updated: 6/4/2025
 ############################################################################
 import sys 
 
@@ -14,7 +14,7 @@ if not "." in listName:
 try:
     genFile = open(listName,"r")
 except: 
-    print("The file you have requested does not exist, please restart the program and try again", file=sys.stderr)
+    print("The file you have requested is not in the GenSplitter Folder, please restart the program and try again", file=sys.stderr)
     input()
     intentionalCrash
         
