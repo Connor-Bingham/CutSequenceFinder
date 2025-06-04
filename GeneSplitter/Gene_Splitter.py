@@ -49,7 +49,7 @@ while loop:
                 print(genName+suffix, file=sys.stderr)
                 genList += genName+suffix+"\n"
                 
-                gene = open("SplitList/"+genName+suffix+".txt","w")
+                gene = open("../SeqSearch/Genes/"+genName+suffix+".txt","w")
                 gene.write(nextLine)
                 inFile = True
         else:
@@ -60,7 +60,7 @@ while loop:
                     
                     gene.write(nextLine)
     
-genListFile = open("Genlist"+suffix+".txt","w") #create a Genlist for CutsiteFinder.py
+genListFile = open("../SeqSearch/Parameters/Genlist"+suffix+".txt","w") #create a Genlist for SeqSearch.py
 genListFile.write(genList) 
 genListFile.close()
                     
