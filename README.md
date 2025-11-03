@@ -148,7 +148,7 @@ Please read the copyright notice in the file (Insert License Here)!
 
 ## Contact
 
-(Needs to be filled in)
+Please direct correspondence to Elias Taylor-Cornejo (eliastaylor-cornejo@rmc.edu)
 
 [vrna_website]: https://www.tbi.univie.ac.at/RNA
 [vrna_github]: https://github.com/ViennaRNA/ViennaRNA
