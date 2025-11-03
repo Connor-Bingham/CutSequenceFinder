@@ -4,7 +4,7 @@
 # Finds a given RNA sequence in a single or multiple genes (in FASTA format)
 # If given a secondary structure beneath RNA sequence, will also reveal if the sequence lies on a hairpin loop
 # Created: 6/26/2024
-# Last Updated: 5/13/2025
+# Last Updated: 11/3/2025
 ############################################################################
 import sys 
 
@@ -117,7 +117,7 @@ def Findgene(sequence,file,name): #performs the actual data anaylsis, given a ge
                     nucleotide = nucleotide - (onSeq-1)
                     onSeq = 0
             else:
-                nucleotide = nucleotide - (onSeq-1)
+                nucleotide = nucleotide - (onSeq)
                 onSeq = 0
             
         elif gene[nucleotide] in sequence[0]:
@@ -195,7 +195,7 @@ def writeResults(matchList,sequence,showOnlyYes): #writes the results of the exp
             lines += genName+" --> No matches"+"\n" 
         else:
             matches += 1
-            if len(gene[1]) > 3:
+            if len(gene[1]) > 1:
                 matchesOver1 += 1
             
             lines += genName+" --> "+str(len(gene[1]))+" matches"+"\n"
@@ -340,3 +340,4 @@ def main():
     input()
     
 main()
+
