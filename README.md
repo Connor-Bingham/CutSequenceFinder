@@ -144,7 +144,7 @@ If using this program, it is recommended to cite the following:
 
 ## License
 
-Please read the copyright notice in the file (Insert License Here)!
+Please read the copyright notice in the [License][file_license]!
 
 ## Contact
 
@@ -154,4 +154,5 @@ Please direct correspondence to Elias Taylor-Cornejo (eliastaylor-cornejo@rmc.ed
 [vrna_github]: https://github.com/ViennaRNA/ViennaRNA
 [vrn_package]: https://www.tbi.univie.ac.at/RNA/#
 [RNAfold]: http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi
-[Genbank]:https://www.ncbi.nlm.nih.gov/genbank/
+[Genbank]: https://www.ncbi.nlm.nih.gov/genbank/
+[file_license]: https://github.com/Connor-Bingham/CutSequenceFinder/blob/main/LICENSE
